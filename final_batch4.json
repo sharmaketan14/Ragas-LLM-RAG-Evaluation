@@ -1,0 +1,802 @@
+{
+    "config": {
+        "chunk_size": 400,
+        "chunk_overlap": 250,
+        "size": 132,
+        "parameter": "4B"
+    },
+    "data": [
+        {
+            "question": "How does the Sexual Harassment of Women at Workplace Act, 2013 define and address sexual harassment in a workplace?",
+            "ground_truth": "The Act defines sexual harassment as any unwanted sexual advance, request for sexual favors, or other unwelcome conduct of a sexual nature when submission to such conduct is made a term or condition of employment.",
+            "context": "3 \n THE SEXUAL HARASSMENT OF WOMEN AT WORKPLACE  \n(PREVENTION, PROHIBITION AND REDRESSAL) ACT, 2013  \nACT NO. 14 OF 2013  \n[22nd April, 2013 ] \nAn Act to provide protection against sexual harassment of women at workplace and for the \nprevention and redressal of complaints of sexual harassment and for matters connected \ntherewith or incidental thereto.  \nWHEREAS  sexual harassment results in violat",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal rights do women in India have when facing sexual harassment at workplace, as mentioned in the context and provided document?",
+            "ground_truth": "In India, women working in a workplace have certain legal rights when facing sexual harassment. As per the context and provided document, to provide protection against sexual harassment, prevention of complaints, redressal of grievances, and matters related to it are covered under Section 307A of the Indian Penal Code (IPC). This section aims to prevent gender-based violence and protect women from such incidents.",
+            "context": "to provide protection against sexual harassment of women at workplace and for the \nprevention and redressal of complaints of sexual harassment and for matters connected \ntherewith or incidental thereto.  \nWHEREAS  sexual harassment results in violation of the fundamental rights of a woman to equality \nunder articles 14 and 15 of the Constitution of India and her right to life and to live with dig",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the legal rights and protections available to a woman facing sexual harassment in her workplace according to international conventions such as Convention on the Elimination of all Forms of Discrimination?",
+            "ground_truth": "A woman facing sexual harassment in her workplace is entitled to several legal rights and protections, as stated in the Convention on the Elimination of all Forms of Discrimination.",
+            "context": "ht to practice any profession or to carry on any occupation, trade or \nbusiness which includes a right to a safe environment free from sexual harassment;  \nAND WHEREAS  the protection against sexual harassment and the right to work with dignity are \nuniversally recognised human rights by international conventions and instruments such as Convention on \nthe Elimination of all Forms of Discrimination",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific laws or provisions does this act provide to protect women against sexual harassment in a workplace, and when was it enacted by the Government of India?",
+            "ground_truth": "The specific laws or provisions this act provides to protect women against sexual harassment in a workplace are Section 6A and 6B of the Indian Penal Code, enacted on June 19th, 1993 by the Government of India. The purpose of enacting this act was to make provisions for giving effect to the United Nations Convention on the Elimination of All Forms of Discrimination against Women.",
+            "context": "h  June, \n1993 by the Government o f India;  \nAND WHEREAS  it is expedient to make provisions for giving effect to the said Convention for \nprotection of women against sexual harassment at workplace.  \nBE it enacted by Parliament in the Sixty -fourth Year of the Republic of India as follows : \u2014 \nCHAPTER I  \nPRELIMINARY  \n1. Short title , extent and com mencement .\u2014(1) This Act may be called the  S",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which Act defines the term 'aggrieved woman' in relation to a workplace?",
+            "ground_truth": "The Prevention of Sexual Harassment Act (Act 13), defines 'aggrieved woman' in relation to a workplace as any woman, of any age who alleges to have been subjected to sexual harassment at work.",
+            "context": "13.  \n(2) It extends to the w hole of India.  \n(3) It shall come into force on such date1 as the Central Government may, by notification in the \nOfficial Gazette, appoint.  \n2. Definitions .\u2014In this Act, unless the context otherwise requires, \u2014 \n(a) \u201caggrieved woman\u201d means \u2014 \n(i) in relation to a workplace, a woman, of any age whether employed or not, who alleges to \nhave been subjected to any act",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What should a woman employed in a dwelling place or house do if she faces sexual harassment?",
+            "ground_truth": "If a woman employed in a dwelling place or house faces sexual harassment, she should report it to the appropriate Government.",
+            "context": "relation to dwelling place or house, a woman of any age who is employed in such a \ndwelli ng place or house;  \n(b) \u201cappropriate Government\u201d means \u2014 \n(i) in relation to a workplace which is established, owned, controlled or wholly or \nsubstantially financed by funds provided directly or indirectly \u2014  \n(A) by the Central Government or the Union territory administration, the Central \nGovernment;  \n(",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In relation to a workplace which is established, owned, controlled or substantially financed by funds provided directly or indirectly by the Central Government or the Union territory administration (A), what is the legal advice regarding the case of sexual harassment?",
+            "ground_truth": "Regarding the case of sexual harassment in relation to a workplace established, owned or controlled by funds provided directly or indirectly by the Central Government or Union territory administration (A), as mentioned in the given context and title, the legal advice would be:\n\n1. The employer is legally liable for all acts committed within its premises regardless of whether it was aware of these acts before they happened.",
+            "context": "(i) in relation to a workplace which is established, owned, controlled or wholly or \nsubstantially financed by funds provided directly or indirectly \u2014  \n(A) by the Central Government or the Union territory administration, the Central \nGovernment;  \n(B) by the State Government, the State Government;  \n \n                                                           \n1. 9th December, 2013 , vide notific",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What can be done to prevent sexual harassment in the workplace?",
+            "ground_truth": "Preventing sexual harassment in the workplace can be achieved through various measures. Here are a few suggestions:",
+            "context": "(A) by the Central Government or the Union territory administration, the Central \nGovernment;  \n(B) by the State Government, the State Government;  \n \n                                                           \n1. 9th December, 2013 , vide notification No. S.O. 3 606(E), dated 9th December, 2013 , see Gazette of India, Extraordinary, Part \nII, sec. 3( ii).",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "How can an Indian citizen seeking legal advice for addressing sexual harassment in their workplace, without being covered under sub-clause (i) and falling within its territory, contact the State Government.",
+            "ground_truth": "To seek legal advice for addressing sexual harassment in their workplace when covered under sub-clause (i) and falling within its territory, an Indian citizen can contact the State Government.\nWhen not covered under sub-clause (i), they should contact the District Officer who has been notified under section 5 of this Act.",
+            "context": "4 \n (ii) in relation  to any workplace not covered under sub -clause (i) and falling within its \nterritory, the State Government;  \n(c) \u201cChairperson\u201d means the Chairperson of the Local Complaints Committee nominated under \nsub-section (1) of section 7; \n (d) \u201cDistrict Officer\u201d means on of ficer notified under section 5;  \n(e) \u201cdomestic worker\u201d means a woman who is employed to do the household work",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal protections and rights are available to domestic workers in the context of sexual harassment at workplace?",
+            "ground_truth": "Domestic workers in India are protected by several legal provisions and rights, including the Domestic Workers (Withdrawal of Bond) Act, 1976, which ensures their safety and dignity. In case of sexual harassment at workplace, domestic workers can seek protection under laws like the Protection of Women from Domestic Violence Act, 2005.",
+            "context": "fied under section 5;  \n(e) \u201cdomestic worker\u201d means a woman who is employed to do the household work in any \nhousehold for remuneration whether in cash or kind, either directly or through any agency on a \ntemporary, permanent, part time or full time basis, but does not include any member of the family of \nthe employer;  \n (f) \u201cemployee\u201d means a person emp loyed at a workplace for any work on regul",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal questions or advice do you need regarding sexual harassment faced by women at the workplace?",
+            "ground_truth": "When it comes to legal questions or advice regarding sexual harassment faced by women at the workplace, consider seeking help from an experienced and skilled labor lawyer who specializes in employment law. They would be able to provide relevant information based on the given context.",
+            "context": "directly or through an agent, including a contractor, with or, without \nthe knowledge of the principal employer, whether for remuneration or not, or working on a vol untary \nbasis or otherwise, whether the terms of employment are express or implied and includes a co -worker, \na contract worker, probationer, trainee, apprentice or called by any other such name;  \n (g) \u201cemployer\u201d means \u2014 \n(i) in re",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Who is responsible for preventing sexual harassment in a workplace, if not an organization or institution?",
+            "ground_truth": "The person responsible for preventing sexual harassment in a workplace, if not an organization or institution, is usually one of the following:\n1. An individual who holds a formal position within the organisation/establishment, like a manager, HR Director etc., with specific powers and responsibilities to enforce anti-harassment policies.\n2. In cases where no such formal position exists, the person responsible could be an employee or a contractor directly involved in managing, supervising and controlling the workplace activities.",
+            "context": "rganisation, undertaking, establishment, enterprise,  institution, office, branch or \nunit or such other officer as the appropriate Government or the local authority, as the case may \nbe, may by an order specify in this behalf;  \n(ii) in any workplace not covered under sub -clause (i), any person responsible for the \nmanagement, supervision and control of the workplace.  \nExplanation . \u2014For the pu",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "Who is responsible to specify, in an order, the local authority regarding sexual harassment faced by a woman at workplace?",
+            "ground_truth": "The local authority is responsible to specify, in an order, the sexual harassment faced by a woman at workplace.",
+            "context": "local authority, as the case may \nbe, may by an order specify in this behalf;  \n(ii) in any workplace not covered under sub -clause (i), any person responsible for the \nmanagement, supervision and control of the workplace.  \nExplanation . \u2014For the purposes of this sub -clause \u201cmanagement\u201d includes the person or \nboard or committee responsible for formulation and administration of polices for such",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are a manager's responsibilities in relation to preventing sexual harassment of women in the workplace?",
+            "ground_truth": "As a manager, your responsibilities in preventing sexual harassment of women in the workplace include:",
+            "context": "esponsible for the \nmanagement, supervision and control of the workplace.  \nExplanation . \u2014For the purposes of this sub -clause \u201cmanagement\u201d includes the person or \nboard or committee responsible for formulation and administration of polices for such \norganisation;  \n(iii) in rel ation to workplace covered under sub -clauses (i) and (ii), the person discharging \ncontractual obligations with respec",
+            "title": "Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "What is the role and responsibilities of the committee responsible for formulating and implementing policies related to sexual harassment in a workplace?",
+            "ground_truth": "The committee responsible for formulating and implementing policies related to sexual harassment in a workplace is primarily concerned with the prevention, investigation, and resolution of incidents involving sexual harassment or misconduct against women at work.",
+            "context": "the person or \nboard or committee responsible for formulation and administration of polices for such \norganisation;  \n(iii) in rel ation to workplace covered under sub -clauses (i) and (ii), the person discharging \ncontractual obligations with respect to his or her employees;  \n(iv) in relation to a dwelling place or house, a person or a household who employs or benefits \nfrom the employment of do",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific legal advice or query can be made regarding the employment and activities performed by a domestic worker, such as their dwelling place or house, person or household they work for, irrespective of the number, time period or type?",
+            "ground_truth": "Domestic workers can be employed in various dwellings or households, and their employment details may include their dwelling place (or house), the person(s) they work for, whether it is an individual or a household. The nature of the activities performed by them could also be specified, like if they are responsible for specific tasks such as cleaning, cooking, laundry, etc.",
+            "context": "dwelling place or house, a person or a household who employs or benefits \nfrom the employment of domestic worker, irrespective of the number, time period or type of such \nworker employed, or the nature of the employment or activities perfor med by the domestic \nworker;  \n(h) \u201cInternal Committee\u201d means an Internal Complaints Committee constituted under section 4;  \n(i) \u201cLocal Committee\u201d means the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the differences between an Internal Complaints Committee and a Local Complaints Committee?",
+            "ground_truth": "An Internal Complaints Committee (ICC) and a Local Complaints Committee (LCC) are two distinct bodies established by law to address complaints related to sexual harassment in the workplace.",
+            "context": "eans an Internal Complaints Committee constituted under section 4;  \n(i) \u201cLocal Committee\u201d means the Local Complaints Committee constituted under section 6;  \n(j) \u201cMember\u201d means a Member of the Internal Com mittee or the Local  Committee, as the case \nmay be;  \n(k) \u201cprescribed\u201d means  prescribed by rules made under this Act;  \n(l) \u201cPresiding Officer\u201d means the Presiding Officer of the Internal Com",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the definition of a 'Member' and 'Presiding Officer' in the context provided?",
+            "ground_truth": "\"Member\" refers to a committee member, whether from the Internal Committee or the Local Committee. A \"Presiding Officer\" is the Presiding Officer of the Internal Complaints Committee, who has been nominated under section 4(2).",
+            "context": "ion 6;  \n(j) \u201cMember\u201d means a Member of the Internal Com mittee or the Local  Committee, as the case \nmay be;  \n(k) \u201cprescribed\u201d means  prescribed by rules made under this Act;  \n(l) \u201cPresiding Officer\u201d means the Presiding Officer of the Internal Complaints Committee \nnominated under sub -section (2) of section 4;  \n(m) \u201crespondent\u2019 means a person against whom the aggrieved woman has made a compla",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific rules or regulations that govern sexual harassment complaints and how does one formally lodge a complaint against an individual accused of sexual harassment in a workplace?",
+            "ground_truth": "The specific rules and regulations that govern sexual harassment complaints are outlined in the Prevention of Sexual Harassment Act, 2013 (Act). Section 4(2) of this act nominates a Presiding Officer for handling internal complaints. The respondent is the individual accused of sexual harassment at work.",
+            "context": "rules made under this Act;  \n(l) \u201cPresiding Officer\u201d means the Presiding Officer of the Internal Complaints Committee \nnominated under sub -section (2) of section 4;  \n(m) \u201crespondent\u2019 means a person against whom the aggrieved woman has made a complaint \nunder section 9;",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the aspects of sexual harassment in a workplace?",
+            "ground_truth": "The aspects of sexual harassment in a workplace include unwelcome physical contact, advances for sexual favors, sexually colored remarks, showing pornography and any other unwelcome verbal or non-verbal conduct of a sexual nature.",
+            "context": "5 \n (n) \u201csexual harassment\u201d includes any one or more of the followi ng unwelcome acts or behavior \n(whether directly or by implication) namely: \u2014 \n(i) physical contact and advances; or  \n(ii) a demand or  request for sexual favours; or  \n(iii) making sexually coloured remarks; or  \n(iv) showing pornography; or  \n(v) any other unwelcome physical, verbal or non -verbal conduct of sexual nature;  \n(o",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "What specific legal advice or queries can an Indian citizen facing a sexual harassment case require from a skilled lawyer?",
+            "ground_truth": "An Indian citizen facing a sexual harassment case may require legal advice on specific areas such as the venue, places visited during employment, residential or non-residential sports venues used for training activities, and any organized section of society.",
+            "context": "(iv) any spor ts institute, stadium, sports co mplex or competition or games venue, whether \nresidential or not used for training, sports or other activities relating thereto;  \n(v) any place visited by the employee arising out of or during the course of  employment \nincluding transportation by the employer for undertaking such journey;  \n(vi) a dwelling place or a house;  \n(p) \u201cunorganis ed secto",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can you explain what is meant by 'unorganized sector' in relation to a workplace and how it differs from organized enterprises?",
+            "ground_truth": "\"Unorganized sector\" refers to a business owned by individuals, self-employed workers, and engaged in the production or sale of goods or services. This type of enterprise is often informal and lacks formal structures such as employee records, contracts, and other administrative requirements typically found in organized enterprises.",
+            "context": "ivities relating thereto;  \n(v) any place visited by the employee arising out of or during the course of  employment \nincluding transportation by the employer for undertaking such journey;  \n(vi) a dwelling place or a house;  \n(p) \u201cunorganis ed sector\u201d in relation to a workplace means an enterprise owned by individuals or \nself-employed workers and engaged in the pr oduction or sale of goods or pr",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Are there any instances where an employer may be held liable for sexual harassment against a female employee?",
+            "ground_truth": "Yes, employers may be held liable for sexual harassment against female employees.",
+            "context": "sent or future employment status; or  \n(iv) interferenc e with her work or creating an intimidating or offensive or hostile work \nenvironment for her; or  \n(v) humiliating treatment likely to affect her health or safety.  \nCHAPTER II  \nCONSTITUTION OF INTERNAL COMPLAINTS COMMITTEE  \n4. Constitution of Internal Complaints Committee .\u2014 (1) Every employer of a workplace shall, by \nan order in writing",
+            "title": "Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "What is the legal definition and process for handling complaints related to sexual harassment against women in a workplace?",
+            "ground_truth": "The legal definition and process for handling complaints related to sexual harassment against women in a workplace involves several steps that employers must follow, as outlined in the Constitution of Internal Complaints Committee (CICC) under Chapter II. The CICC provides guidelines on how to handle such cases effectively while ensuring fairness, impartiality, and confidentiality.\n\nHere are some key points:\n1. The employer should constitute an Internal Complaints Committee,\n2. The Committee will hear complaints that relate to sexual harassment of women in the workplace based on factors like \nv) humiliating treatment likely to affect her health or safety.",
+            "context": "or  \n(v) humiliating treatment likely to affect her health or safety.  \nCHAPTER II  \nCONSTITUTION OF INTERNAL COMPLAINTS COMMITTEE  \n4. Constitution of Internal Complaints Committee .\u2014 (1) Every employer of a workplace shall, by \nan order in writing, constitute a Committee to be known as the \u201cInternal Complaints Committee\u201d :",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Are there any specific requirements or procedures for the constitution of an Internal Committee when offices or administrative units are located in different places?",
+            "ground_truth": "No specific requirements or procedures are mentioned in the given context.",
+            "context": "6 \n Provided that where the offices or administrative units of the workplace are located at different places \nor divisional or sub -divisional level, the Internal Committee shall be constituted at all administrative units \nor offices.  \n(2) The Internal Committees  shall consist  of  the following members to be nominated by the \nemployer, namely:  \u2014 \n(a) a Presiding Officer who shall be a woman em",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Who would nominate the Presiding Officer in case all other offices and administrative units of a workplace do not have a senior-level woman employee?",
+            "ground_truth": "The Presiding Officer in case all other offices and administrative units of a workplace do not have a senior-level woman employee would be nominated from among the employees present, who has experience as a senior-woman officer or any other female officer with relevant experience.",
+            "context": "t the employees:  \nProvided that in case a senior level woman employee is not available, the Presiding Officer shall \nbe nominated from other offices or administrative units of the workplace referred to in sub -section (1): \nProvided further that in case the other offices or administrativ e units of the workplace do not  \nhave a senior level woman employee, the Presiding Officer shall be nominated",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Do you have any recommendations on how to nominate a woman as the Presiding Officer for handling sexual harassment cases in an office where there is no senior level woman employee?",
+            "ground_truth": "The recommendation for nominating a woman as the Presiding Officer handling sexual harassment cases in an office without senior-level female employees would be to nominate her from any other workplace of the same employer or another department/organization. This is because, according to sub-section 1 of the provided context, if no such employee exists within that particular office's administrative units, she must be nominated from a different location.",
+            "context": "or administrative units of the workplace referred to in sub -section (1): \nProvided further that in case the other offices or administrativ e units of the workplace do not  \nhave a senior level woman employee, the Presiding Officer shall be nominated fr om any other \nworkplace of the same employer or other department or organisation;  \n(b) not less than two Members from amongst employees preferabl",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which employee, male or female, will act as the Presiding Officer in a workplace where no senior-level woman is available to preside over?",
+            "ground_truth": "The Presiding Officer in a workplace without any senior-level woman employee to preside over will be nominated from another workplace, preferably one with women employees who are committed to the cause of women or have experience in social work or legal knowledge. The nominee should also be non-governmental and meet certain criteria such as having at least two members.",
+            "context": "the workplace do not  \nhave a senior level woman employee, the Presiding Officer shall be nominated fr om any other \nworkplace of the same employer or other department or organisation;  \n(b) not less than two Members from amongst employees preferably committed to the cause of \nwomen or who have had experience in socia l work or have legal knowledge;  \n(c) one member from amongst non -governmental",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Who is eligible to hold office on the Internal Committee?",
+            "ground_truth": "The eligible persons to hold office on the Internal Committee are those who have knowledge about sexual harassment and at least half of the total members should be women.",
+            "context": "ause of women or a person familiar with the issues relating to sexual harassment:  \nProvided that at least one -half of the total Members so nominated shall be women.  \n(3) The Presiding Officer and every Member of the Internal Committee shall hold office for such \nperiod, not exceeding three years, fr om the date of their nomination  as may be specified by the employer.  \n(4) The Member appointed",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the maximum period, in years, that a Member appointed from non-governmental organizations or associations can hold office as an Internal Committee member?",
+            "ground_truth": "The maximum period, in years, that a Member appointed from non-governmental organizations or associations can hold office as an Internal Committee member is three.",
+            "context": "shall be women.  \n(3) The Presiding Officer and every Member of the Internal Committee shall hold office for such \nperiod, not exceeding three years, fr om the date of their nomination  as may be specified by the employer.  \n(4) The Member appointed from amongst the non -government al organisations or associations shall be \npaid such fees or allowances for holding the proceedings of the Internal",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the fees and allowances paid to the member appointed from non-governmental organizations or associations for holding the proceedings of the Internal Committee?",
+            "ground_truth": "The member appointed from non-governmental organizations or associations shall be paid such fees or allowances for holding the proceedings of the Internal Committee by the employer, as may be prescribed.",
+            "context": "fr om the date of their nomination  as may be specified by the employer.  \n(4) The Member appointed from amongst the non -government al organisations or associations shall be \npaid such fees or allowances for holding the proceedings of the Internal Committee, by the employer, as \nmay be prescribed.  \n(5) Where the Pr esiding Officer or any Member of the Internal Committee, \u2014 \n(a) contravenes the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the consequences and remedies for a complainant who has been subjected to sexual harassment in a workplace?",
+            "ground_truth": "A complainant who has been subjected to sexual harassment in a workplace may face several consequences and remedies.",
+            "context": "cted for an offence or an inquiry into an offence under any law for the time \nbeing in force is pending against him; or  \n(c) he has been found guilty in any disciplinary proceedings or a discip linary proceeding is \npending against him; or  \n(d) has so abused his position as to render his continuance in office pre judicial to the public \ninterest,  \nsuch Presiding Officer or Member, as the case m",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Who should be removed from the Committee if a woman faces sexual harassment in office?",
+            "ground_truth": "If a woman faces sexual harassment in the office, the committee chairperson or member should be removed from the committee.",
+            "context": "ce in office pre judicial to the public \ninterest,  \nsuch Presiding Officer or Member, as the case may be, shall  be removed from the Committee and the \nvacancy so created or any casual  vacancy shall be filled by fresh nomination in accordance with the \nprovisions of this section.  \nCHAPTER III  \nCONSTITUTION OF LOCAL COMPLAINTS COMMITTEE  \n5. Notification of District Officer .\u2014The appropriate Go",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process by which a district officer in charge of notifying sexual harassment cases from workplace is appointed?",
+            "ground_truth": "The process by which a district officer is appointed in charge of notifying sexual harassment cases from the workplace varies based on the specific law and regulations that govern such appointments.",
+            "context": "ONSTITUTION OF LOCAL COMPLAINTS COMMITTEE  \n5. Notification of District Officer .\u2014The appropriate Government may notify a District Magistrate \nor Additional District Magistrate or the Collector or Deputy Collector  as a District Officer for every \nDistrict to exercise powers or discharge functions under this Act.  \n6. Constitution a nd jurisdiction of  1[Local Committee] .\u2014(1) Every District Offic",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the powers or functions that a District Officer can exercise under the Act when appointed as the District Magistrate, Collector, or Deputy Collector for every district to discharge their functions?",
+            "ground_truth": "A District Officer appointed as the District Magistrate, Collector or Deputy Collector can exercise the following powers and discharge functions under this Act:",
+            "context": "tional District Magistrate or the Collector or Deputy Collector  as a District Officer for every \nDistrict to exercise powers or discharge functions under this Act.  \n6. Constitution a nd jurisdiction of  1[Local Committee] .\u2014(1) Every District Officer shall constitute \nin the district concerned, a committee to be known as the \u201c1[Local Committee ]\u201d to receive complaints of",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the role and jurisdiction of the Local Complaints Committee established under Act 23 of 2016, as per the Second Schedule?",
+            "ground_truth": "The Local Complaints Committee established under Act 23 of 2016, as per the Second Schedule is a body constituted to receive complaints related to sexual harassment of women at workplace. Its jurisdiction extends to all matters relating to this subject matter.",
+            "context": "nder this Act.  \n6. Constitution a nd jurisdiction of  1[Local Committee] .\u2014(1) Every District Officer shall constitute \nin the district concerned, a committee to be known as the \u201c1[Local Committee ]\u201d to receive complaints of \n                                                           \n1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for \u201cLocal Complaints Committee\u201d (w.e.f. 6 -5-2016).",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process for filing a sexual harassment complaint against an employer in a rural or tribal area where the internal committee has not been constituted due to having less than ten workers?",
+            "ground_truth": "The process for filing a sexual harassment complaint against an employer in a rural or tribal area where the internal committee has not been constituted due to having less than ten workers is as follows:\n1. The complainant should first lodge their complaint with the designated nodal officer.\n2. The nodal officer shall collect all relevant information from the complainant, including details of the harassment, date and place it occurred, etc.\n3. Based on this information, the nodal officer will forward the complaint to the Additional District Magistrate (ADM), who is a judicial officer under Section 478 CrPC for handling sexual offences.",
+            "context": "7 \n sexual harassment from establishments where the 1[Internal Committee ] has not been constituted due to \nhaving less than ten workers or if the complaint is against the employer himself.  \n(2) The District Officer shall designate one nodal officer in every block, taluka and  tehsil in rural or \ntribal area and ward or municipality in the urban area, to receive complaints and forward the same to",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the procedure for filing a complaint against an employer in cases where it is alleged that the employer himself sexually harassed a woman?",
+            "ground_truth": "The procedure for filing a complaint against an employer in cases where it is alleged that the employer himself sexually harassed a woman involves several steps. Firstly, you should gather evidence of any sexual harassment that has taken place and ensure all relevant details are documented. Then, you can reach out to your local District Officer or nodal officer (depending on whether your area falls under rural or urban jurisdiction) for guidance in filing an official complaint against the employer. The District Officer will then assign a nodal officer in your taluka/municipality who will receive your complaint and forward it to the concerned Local Committee within seven days, if you live in rural areas or tribals; otherwise, within 15 working days for urban residents. Lastly, this Local Committee has jurisdiction over these areas where the alleged harassment took place.",
+            "context": "plaint is against the employer himself.  \n(2) The District Officer shall designate one nodal officer in every block, taluka and  tehsil in rural or \ntribal area and ward or municipality in the urban area, to receive complaints and forward the same to the \nconcerned 2[Local Committee ] within a period of seven days.  \n(3) The jurisdiction of the 2[Local Committee ] shall extend to the areas of the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific legal rights and protections do Indian citizens face regarding sexual harassment in the workplace?",
+            "ground_truth": "Indian citizens are protected by several legal rights and protections regarding sexual harassment in the workplace.\n\n1. **Prohibition on sexual harassment**: It is a punishable offense under Section 354A of Indian Penal Code (IPC). This section prohibits any act which offends modesty or creates an undesirable environment, including unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature.\n\n2. **Right to report**: Indian citizens have the right to report and seek legal action against such harassment without fear of victimization. The law provides safe avenues for redressal through various mechanisms like police reports, complaints at designated women-friendly cells/stations, online complaint portals and so on.\n\n3. **Protection from discrimination**: Sexual harassment in the workplace is considered a form of discrimination under Section 125B of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989. This act prohibits any act that causes outrage to feelings of hatred or contempt on grounds of race, caste, religion, sex, place of birth or residence.\n\n4. **Appeals**: An aggrieved person has the right to appeal against an order passed by a Magistrate/Additional District and Sessions Judge (Magistrate) within 15 days under Section 637 of the Code of Criminal Procedure, 1973. The High Court may also entertain appeals.\n\n5. **Protection from workplace**: In cases where sexual harassment is proved in the course of work or employment, the employer shall be punished with imprisonment for a term which may extend to three years under Section 354B of IPC. For repeat offenders, the punishment could go up to seven years.\n",
+            "context": "d of seven days.  \n(3) The jurisdiction of the 2[Local Committee ] shall extend to the areas of the district where it is \nconstituted . \n7. Composition, tenure and other terms and conditions of 2[Local Committee ].\u2014(1) The 2[Local  \nCommittee ] shall consist of the following members to be nominated by the District Officer, namely: \u2014 \n(a) a Chairperson to be nominated from amongst the eminent women",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific steps should a Chairperson take to prevent and address sexual harassment cases among female employees?",
+            "ground_truth": "The Chairperson should take several specific steps to prevent and address sexual harassment cases among female employees.",
+            "context": "n, tenure and other terms and conditions of 2[Local Committee ].\u2014(1) The 2[Local  \nCommittee ] shall consist of the following members to be nominated by the District Officer, namely: \u2014 \n(a) a Chairperson to be nominated from amongst the eminent women in the field of social work \nand committed to the cause of women;  \n(b) one Member to be nominated from amongst the women working in block, taluka or",
+            "title": "Prevention and Address of Sexual Harassment Cases Among Female Employees."
+        },
+        {
+            "question": "What is the role and responsibilities of a concerned officer dealing with social welfare or women and child development in a district, who ex officio becomes a member of the local committee?",
+            "ground_truth": "The role and responsibilities of a concerned officer dealing with social welfare, women and child development in a district who ex officio becomes a member of the local committee include:\n1. To promote awareness and education about gender equality, human rights, and empowerment among women and children.\n2. To facilitate access to basic needs like food, shelter, clothing, health care, and sanitation for women and children living below poverty line in their respective districts.\n3. To provide legal assistance and guidance regarding the application of laws related to protection against sexual harassment at workplaces.",
+            "context": "rom time to time;  \n(d) the concerned officer dealing wit h the social welfare or women and child development in the \ndistrict, shall be a member ex officio . \n(2) The Chairperson and every Member of the Local Committee shall hold office for such period, not \nexceeding three years, form the date of their appointment as may be specified by the District Officer.  \n(3) Where the Chairperson or any  M",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the provisions in section 16 that a chairperson or any member of the Local Committee may contravene?",
+            "ground_truth": "The chairperson and any member of the Local Committee may contravene Section 16 by (a) contravening its provisions or (b) being convicted for an offense related to it.",
+            "context": "fficio . \n(2) The Chairperson and every Member of the Local Committee shall hold office for such period, not \nexceeding three years, form the date of their appointment as may be specified by the District Officer.  \n(3) Where the Chairperson or any  Member of the 2[Local Co mmittee] \u2014 \n(a) contravenes t he provisions of section 16; or  \n(b) has been convicted for an offence or an inquiry into an of",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "What legal advice should be provided to an Indian citizen who is facing a legal query related to sexual harassment in the workplace and requires assistance from a skilled lawyer?",
+            "ground_truth": "It is important for the Indian citizen to seek legal advice from a skilled lawyer, who can provide them with guidance on their rights and potential remedies available in the workplace context of sexual harassment.",
+            "context": "their appointment as may be specified by the District Officer.  \n(3) Where the Chairperson or any  Member of the 2[Local Co mmittee] \u2014 \n(a) contravenes t he provisions of section 16; or  \n(b) has been convicted for an offence or an inquiry into an offence under any law for the time \nbeing in force is pending against him; or  \n(c) has been found guilty in any disciplinary proceedings or a disciplin",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "How can an individual who is a suspected victim of sexual harassment in workplace seek legal advice?",
+            "ground_truth": "To seek legal advice, an individual who is a suspected victim of sexual harassment in workplace can approach any corporate lawyer or a specialized firm that deals with work-related litigation and employment law.",
+            "context": "s t he provisions of section 16; or  \n(b) has been convicted for an offence or an inquiry into an offence under any law for the time \nbeing in force is pending against him; or  \n(c) has been found guilty in any disciplinary proceedings or a disciplinary proceeding is pending \nagainst him; or  \n(d) has so abused his position as to render his continuance in office prejudicial to the public \ninterest",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific grounds for removing a Chairperson or Member from the Committee due to sexual harassment of women in the workplace?",
+            "ground_truth": "The specific grounds for removing a Chairperson or Member from the Committee due to sexual harassment in the workplace can be based on any one, all or none of the following reasons:\n(a) pending against him; \n(b) found guilty in any disciplinary proceedings; \n(c) abuse of position; \n\nBased on the given context and title 'The Sexual Harassment of Women at Workplace', it is most likely that the Chairperson or Member being considered for removal has been accused or proven to have engaged in sexual harassment.",
+            "context": "s pending against him; or  \n(c) has been found guilty in any disciplinary proceedings or a disciplinary proceeding is pending \nagainst him; or  \n(d) has so abused his position as to render his continuance in office prejudicial to the public \ninterest,  \nsuch Chairperson or Member, as the case  may be, shall be removed from the Committee and the vacancy \nso created or any casual vacancy shall be fi",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Has a chairman been removed from committee due to allegations of sexual harassment in workplace?",
+            "ground_truth": "No, a chairman has not been removed from committee due to allegations of sexual harassment in workplace as per given context.",
+            "context": "as so abused his position as to render his continuance in office prejudicial to the public \ninterest,  \nsuch Chairperson or Member, as the case  may be, shall be removed from the Committee and the vacancy \nso created or any casual vacancy shall be filled by fresh nomination in accordance with the provisions of \nthis section.  \n(4) The Chairperson or Members of the Local Committee other than the Me",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process for filling a casual vacancy in case of sexual harassment of women at workplace?",
+            "ground_truth": "To fill a casual vacancy due to sexual harassment of women in an workplace, follow these steps:\n1. Remove the member who is responsible for the misconduct from the Committee.\n2. Fill the created or casual vacancy by nominating someone fresh as per the provisions mentioned below.",
+            "context": "e, shall be removed from the Committee and the vacancy \nso created or any casual vacancy shall be filled by fresh nomination in accordance with the provisions of \nthis section.  \n(4) The Chairperson or Members of the Local Committee other than the Member s nominated under \nclauses (b) and (d) of sub -section (1) shall be entitled to such fees or allowances for holding the \nproceedings of the Local",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the allowances prescribed for holding the proceedings of the Local Committee as per clauses (b) and (d) of sub-section (1)?",
+            "ground_truth": "The allowances prescribed for holding the proceedings of the Local Committee as per clauses (b) and (d) of sub-section (1) are not specified in this section.",
+            "context": "ovisions of \nthis section.  \n(4) The Chairperson or Members of the Local Committee other than the Member s nominated under \nclauses (b) and (d) of sub -section (1) shall be entitled to such fees or allowances for holding the \nproceedings of the Local Committee as may be prescribed.  \n8. Grants and audit .\u2014(1) The Central Government may, after due appropriation made by Parliament \nby law in this be",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the fees or allowances for holding proceedings of Local Committee?",
+            "ground_truth": "The fees or allowances for holding proceedings of Local Committee may be prescribed by the law and are subject to approval from the Central Government after due appropriation made by Parliament.\n",
+            "context": "-section (1) shall be entitled to such fees or allowances for holding the \nproceedings of the Local Committee as may be prescribed.  \n8. Grants and audit .\u2014(1) The Central Government may, after due appropriation made by Parliament \nby law in this behalf, make to the State Government grants of such sums of money as the Central \n                                                           \n1. Subs. b",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which Act and Schedule do the provisions related to Internal Complaints Committee refer to?",
+            "ground_truth": "The provisions related to the Internal Complaints Committee are subsumed in Act 23 of 2016, s. 3 and the Second Schedule for both 'Internal Complaints Committee' (w.e.f. 6 -5-2016) and 'Local Complaints Committee' (w.e.f. 6 -5-2016).",
+            "context": "sums of money as the Central \n                                                           \n1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for \u201cInternal Complaints Committe e\u201d (w.e.f. 6 -5-2016).  \n2. Subs. by  s. 3 and the Second Schedule,  ibid., for \u201cLocal Complaints Committee\u201d (w.e.f. 6 -5-2016).",
+            "title": "Internal Complaints Committee"
+        },
+        {
+            "question": "A question about the context.",
+            "ground_truth": "The given context is about the utilization of grants made under Section 7, Sub-Section (1) by the State Government for payment of fees or allowances to District Officers.",
+            "context": "8 \n Government my think fit, for being utilised for the payment of fees or allowances referre d to in sub -\nsection (4) of section 7.  \n(2) The State Government may set up an agency and transfer the grants made under sub -section (1) to \nthat agency.  \n(3) The agency shall pay to the District Officer, such sums as may be required for the payment of fees \nor allowances referred to in sub -section (",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Does the government have the power to transfer grants made under sub-section (1) to an agency that it may set up?",
+            "ground_truth": "The government can transfer grants made under sub-section (1) to an agency that it has set up, according to the given context.",
+            "context": "Government may set up an agency and transfer the grants made under sub -section (1) to \nthat agency.  \n(3) The agency shall pay to the District Officer, such sums as may be required for the payment of fees \nor allowances referred to in sub -section (4) of section 7.  \n(4) The accounts of the agency referred to in sub -section (2) shall be maintained and audited in such \nmanner as may, in consultat",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the requirement for an employee regarding accounts and auditors in the context of the given title?",
+            "ground_truth": "The requirement for an employee regarding accounts and auditors in the context of the given title is that they maintain and audit the agency's accounts, as prescribed by the Accountant General of the State. The custodian of the accounts must submit a copy of their audited accounts along with the auditors' report to the State Government before the specified date.",
+            "context": "referred to in sub -section (2) shall be maintained and audited in such \nmanner as may, in consultation with the Accountant General of the State, be prescribed and the person \nholding th e cust ody of the accounts of the agency shall furnish, to the State Government, before such \ndate, as may be prescribed, its audited copy of accounts together with auditors\u2019 report thereon.  \nCHAPTER IV  \nCOMPLAI",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "What specific information or evidence would be required for an Indian citizen, who is facing a legal query related to sexual harassment of women in the workplace, from seeking advice from a skilled lawyer on how they can lodge a complaint?",
+            "ground_truth": "To lodge a complaint about sexual harassment of women in the workplace, an Indian citizen would need specific information such as details of the incident, evidence like emails or messages related to the harassment, and any relevant documentation.",
+            "context": "rescribed and the person \nholding th e cust ody of the accounts of the agency shall furnish, to the State Government, before such \ndate, as may be prescribed, its audited copy of accounts together with auditors\u2019 report thereon.  \nCHAPTER IV  \nCOMPLAINT  \n9. Complaint of sexual harassment .\u2014(1) Any aggrieved woman  may make, in writing, a complaint \nof sexual harassment at workplace to the Internal",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What should be the content and format of the complaint for sexual harassment in a workplace where an aggrieved woman may make it in writing to the Internal Committee or Local Committee within three months from the date of incident?",
+            "ground_truth": "The content and format of the complaint for sexual harassment in a workplace where an aggrieved woman may make it in writing to the Internal Committee or Local Committee within three months from the date of incident should be:\n\n1. A clear and concise statement of facts supporting her claim, including but not limited to dates, places, names involved and any other relevant details.\n2. A detailed description of the incidents, providing specific instances when sexual harassment occurred, along with their duration and nature.",
+            "context": "scribed, its audited copy of accounts together with auditors\u2019 report thereon.  \nCHAPTER IV  \nCOMPLAINT  \n9. Complaint of sexual harassment .\u2014(1) Any aggrieved woman  may make, in writing, a complaint \nof sexual harassment at workplace to the Internal Committee  if so constituted , or the Local Committee, in \ncase it is not so constituted, within a period of three months from the date of  incident",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "How can a complainant ensure they have all reasonable assistance to make their complaint in writing when sexual harassment is occurring?",
+            "ground_truth": "To ensure you have all reasonable assistance to make your complaint in writing when sexual harassment is occurring, follow these steps:",
+            "context": "riod of three months from the date of  last incident:  \nProvided that where such  complaint cannot be made in writing, the Presiding Officer or any Member \nof the Internal Committee or the Chairperson or any Member of the Local Committee, as the case may be, \nshall render all reasonable assistance to the woman for making the complaint in  writing:  \nProvided further that the Internal Committee or,",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "Given that the woman made a complaint in writing, did the Internal Committee or Local Committee extend her time limit to file a complaint within three months based on circumstances preventing her from filing it timely?",
+            "ground_truth": "No, they cannot extend her time limit based on circumstances preventing her from filing it timely.",
+            "context": "o the woman for making the complaint in  writing:  \nProvided further that the Internal Committee or, as the case may be, the Local Committee may, for \nthe reasons to be recorded in writing, extend the time limit not exceeding three months , if it is satisfied \nthat the circumstances were such which prevented the woman from filing  a complaint within the said \nperiod.  \n(2) Where the aggrieved woma",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the reasons to be recorded in writing when a woman is unable to make a complaint due to physical or mental incapacity, death, or any other reason?",
+            "ground_truth": "The reasons to be recorded in writing are:\r\n1) Physical incapacity.\r\n2) Mental incapacity.\r\n3) Death.\r\n4) Any other reason that prevents the woman from filing a complaint within three months.",
+            "context": "the reasons to be recorded in writing, extend the time limit not exceeding three months , if it is satisfied \nthat the circumstances were such which prevented the woman from filing  a complaint within the said \nperiod.  \n(2) Where the aggrieved woman is unable to make a complaint on account of   her physical or mental \nincapacity or death or otherwise, her legal heir or such other person as may be",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "When can a person make a complaint under this section, 10. Conciliation?",
+            "ground_truth": "A person can make a complaint under Section 10, Conciliation when she is physically or mentally incapable due to physical or mental incapacity, death (in the case of her legal heir), or otherwise. Any other person who may be prescribed by law also has this right.",
+            "context": "physical or mental \nincapacity or death or otherwise, her legal heir or such other person as may be prescribe d may make a \ncomplaint under this section.  \n10. Conciliation. \u2014(1) The Internal Committee or, as the case may be, the Local Committee, may, \nbefore initiating an inquiry under section 11 and at the request of the aggrieved woman take steps to settle \nthe matter between her and the respo",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process for resolving a sexual harassment case through conciliation, as mentioned in section 11?",
+            "ground_truth": "The process for resolving a sexual harassment case through conciliation as mentioned in section 11 is the following:\n\n1. Conciliation: Before initiating an inquiry under section 11, and at the request of the aggrieved woman, the Internal Committee or the Local Committee takes steps to settle the matter between her and the respondent through conciliation.\n2. Where settlement has been arrived at,\n3.",
+            "context": "ion.  \n10. Conciliation. \u2014(1) The Internal Committee or, as the case may be, the Local Committee, may, \nbefore initiating an inquiry under section 11 and at the request of the aggrieved woman take steps to settle \nthe matter between her and the respondent through conciliation:  \nProvided that no monetary settlement shall be made as a basis of conciliation.  \n(2) Where settlement has been arrived a",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What steps can a woman take to settle her matter with respondent through conciliation if monetary settlement is not allowed as basis for conciliation and the matter involves sexual harassment in workplace?",
+            "ground_truth": "The aggrieved woman can follow these steps to settle her matter with the respondent through conciliation even if monetary settlement is not allowed as basis for conciliation and the matter involves sexual harassment in workplace:\n1. The aggrieved woman should file a complaint against the respondent at the grievance redressal cell of her organization.\n2. The respondent, if he/she wishes to respond or defend himself/herself, can also file a response through the same mechanism as mentioned above.\n3. Both parties then exchange information and present their respective cases before an internal committee (or local committee) constituted for this purpose.",
+            "context": "and at the request of the aggrieved woman take steps to settle \nthe matter between her and the respondent through conciliation:  \nProvided that no monetary settlement shall be made as a basis of conciliation.  \n(2) Where settlement has been arrived at under sub -section (1), the Internal Committee or the Local \nCommittee, as the  case may be, shall record the settlement so arrived and forward the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can a conciliatory settlement be made as a basis for conciliation?",
+            "ground_truth": "No, a conciliatory settlement cannot serve as a basis for conciliation.",
+            "context": "etary settlement shall be made as a basis of conciliation.  \n(2) Where settlement has been arrived at under sub -section (1), the Internal Committee or the Local \nCommittee, as the  case may be, shall record the settlement so arrived and forward the same to the \nemployer or the District Officer to take action as specified in the recommendation.  \n(3) The Internal Committee or the Local Committee,",
+            "title": "context:etary settlement shall be made as a basis of conciliation."
+        },
+        {
+            "question": "Can an Internal Committee or Local Committee be responsible for recording a settlement in cases related to sexual harassment of women?",
+            "ground_truth": "No, an Internal Committee or Local Committee cannot be responsible for recording a settlement in cases related to sexual harassment of women.",
+            "context": "r the Local \nCommittee, as the  case may be, shall record the settlement so arrived and forward the same to the \nemployer or the District Officer to take action as specified in the recommendation.  \n(3) The Internal Committee or the Local Committee, as the case may be, shall provide the co pies of \nthe settlement as recorded under sub -section (2) to the aggrieved woman and the respondent.  \n(4) W",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process for resolving a sexual harassment complaint involving an Indian citizen in a workplace?",
+            "ground_truth": "The process for resolving a sexual harassment complaint involving an Indian citizen in a workplace can be broken down into several steps.",
+            "context": "the settlement as recorded under sub -section (2) to the aggrieved woman and the respondent.  \n(4) Where a settlement is arrived at under sub -section (1), no further inquiry shall be conducted by the \nInternal Committee or the Local Committee, as the case may be.  \n11. Inquiry into complaint. \u2014 (1) Subject  to the provision s of section 10, the Internal Committee or \nthe Local Committee, as the c",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In what manner and under which sections can an employee complain about sexual harassment in a workplace if he/she is not the respondent?",
+            "ground_truth": "An employee can complain about sexual harassment in a workplace even if they are not the respondent by following these steps:",
+            "context": "(1), no further inquiry shall be conducted by the \nInternal Committee or the Local Committee, as the case may be.  \n11. Inquiry into complaint. \u2014 (1) Subject  to the provision s of section 10, the Internal Committee or \nthe Local Committee, as the case may be, shall, where the respondent is an employee, proceed to make \ninquiry into the complaint in accordance with the provisions of the service r",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the service rules applicable to the respondent in a sexual harassment complaint filed by an Indian citizen?",
+            "ground_truth": "In a sexual harassment complaint filed by an Indian citizen, the respondent may face certain service rules applicable to them as per law.",
+            "context": "oyee, proceed to make \ninquiry into the complaint in accordance with the provisions of the service rules applicable to the \nrespondent an d where no such rules  exist, in such manner as may be prescribed or in case of a domestic \nworker, the Local Committee shall, if prima facie case exist, forward the complaint to the police, within a \nperiod of seven days for registering the case under sectio n",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Did the settlement arrived at under sub-section (2) of section 10 not comply with the complainant's requirements?",
+            "ground_truth": "No, the settlement arrived under sub-section (2) of section 10 did not comply with the complainant's requirements.",
+            "context": "the settlement arrived at under sub -section  (2) of section 10 \nhas not been complied with by the respondent, the Internal Committee or the Local Committee shall \nproceed to make an inquiry into the complaint or, as the case may be, forward the complaint t o the police:  \nProvided further that where both the parties are employees, the parties shall, during the course of \ninquiry, be given an oppo",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In a context where both parties are employees and there is a finding that sexual harassment has taken place in the workplace, who should have access to this finding?",
+            "ground_truth": "The finding related to sexual harassment in the workplace should be shared with both parties involved as it is a crucial aspect that needs their feedback and input for effective action against such misconduct.",
+            "context": "e both the parties are employees, the parties shall, during the course of \ninquiry, be given an opportunity of being heard and a copy of the findings shall be made available to both \nthe parties enabl ing them to make r epresentation against the findings before the Committee.  \n(2) Notwithstanding an ything contained in section 509 of the Indian Penal Code  (45 of 1860) , the \ncourt may, when the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Did a company violate sexual harassment laws when it was found that they allowed a male employee to sexually harass female employees?",
+            "ground_truth": "Yes",
+            "context": "shall be made available to both \nthe parties enabl ing them to make r epresentation against the findings before the Committee.  \n(2) Notwithstanding an ything contained in section 509 of the Indian Penal Code  (45 of 1860) , the \ncourt may, when the respondent is convicted of the offence, order payment of such sums as it may \nconsider appropriate, to the aggrieved woman by the respondent, having r",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the consequences for an employer who sexually harasses a female employee in India according to Section 509 of the Indian Penal Code (45 of 1860) and the provisions of The Sexual Harassment of Women at Workplace.pdf?",
+            "ground_truth": "The employer may face severe consequences for sexually harassing a female employee in India under Section 509 of the Indian Penal Code (45 of 1860) and The Sexual Harassment of Women at Workplace.pdf. Specifically, according to The Sexual Harassment of Women at Workplace.pdf, if an employer is convicted of sexual harassment, they may be ordered to pay a compensation amount by the court.",
+            "context": "n ything contained in section 509 of the Indian Penal Code  (45 of 1860) , the \ncourt may, when the respondent is convicted of the offence, order payment of such sums as it may \nconsider appropriate, to the aggrieved woman by the respondent, having regard to the provisions of \nsection",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which specific legal actions can be taken by a complainant regarding sexual harassment in the workplace?",
+            "ground_truth": "The complainant can take specific legal actions regarding sexual harassment in the workplace, as mentioned in Section 12(1) of the Act. These actions include:",
+            "context": "namely: \u2014 \n(a) summoning and enforcing the attendance of any person and examining him on oath;  \n(b) requiring the discovery and production of documents; and  \n(c) any other matter which may be prescribed.  \n(4) The inquiry under sub -section (1) shall be completed within a period of ninety days.  \nCHAPTER V  \nINQUIRY INTO COMPLAINT  \n12. Action during pendency of inquiry .\u2014(1) During the pendenc",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific steps to be taken by an Indian citizen who is facing sexual harassment in a workplace and requires legal advice from a skilled lawyer?",
+            "ground_truth": "An Indian citizen facing sexual harassment in a workplace and requiring legal advice from a skilled lawyer should follow these steps:",
+            "context": "nts; and  \n(c) any other matter which may be prescribed.  \n(4) The inquiry under sub -section (1) shall be completed within a period of ninety days.  \nCHAPTER V  \nINQUIRY INTO COMPLAINT  \n12. Action during pendency of inquiry .\u2014(1) During the pendency of an inquiry on a written \nrequest made by the aggrieved woman,  the Internal Committee or the local Committee, as the case may \nbe, may recommend",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which option does the Internal Committee or local Committee, as the case may be, recommend to an employer for a grieved woman who has faced sexual harassment in workplace?",
+            "ground_truth": "b",
+            "context": "ggrieved woman,  the Internal Committee or the local Committee, as the case may \nbe, may recommend to the employer to \u2014 \n(a)  transfer the aggrieved woman or the respondent to any other workplace; or  \n(b) grant leave to the aggrieved woman up to a period of three months; or  \n(c) grant such other relief to the aggrieved woman a may be prescribed.  \n(2) The leave granted to the aggrieved woman und",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can an employer in India force a woman to work in a workplace where she has experienced sexual harassment?",
+            "ground_truth": "No, an employer in India cannot force a woman to work in a workplace where she has experienced sexual harassment. In such cases, the employee is entitled to compensation and may also be granted leave up to three months by her employer or any other relief as prescribed by law.",
+            "context": "oman or the respondent to any other workplace; or  \n(b) grant leave to the aggrieved woman up to a period of three months; or  \n(c) grant such other relief to the aggrieved woman a may be prescribed.  \n(2) The leave granted to the aggrieved woman under this section shall be in addition to the leave she \nwould be otherwise entitled.  \n(3) On the recommendation of the Internal Committee  or the Loca",
+            "title": "The Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "If an aggrieved woman is prescribed with relief in a case of sexual harassment, what leave would she be granted?",
+            "ground_truth": "She would be granted relief in addition to any other leave she may be entitled.",
+            "context": "elief to the aggrieved woman a may be prescribed.  \n(2) The leave granted to the aggrieved woman under this section shall be in addition to the leave she \nwould be otherwise entitled.  \n(3) On the recommendation of the Internal Committee  or the Local Committee, as the case may be, \nunder su b-section (1), the employer shall implement the recommendations made under sub -section (1) \nand send the r",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the recommendations made by the Internal Committee or Local Committee to employers and how should they be implemented?",
+            "ground_truth": "The Internal Committee or Local Committee has made recommendations to employers on how to handle cases of sexual harassment. Employers are required to implement these recommendations and provide a report of their implementation to the relevant committee.",
+            "context": "she \nwould be otherwise entitled.  \n(3) On the recommendation of the Internal Committee  or the Local Committee, as the case may be, \nunder su b-section (1), the employer shall implement the recommendations made under sub -section (1) \nand send the report of such implementation to the Internal Committee or the Local Committee, as the case \nmay be.  \n13. Inquiry report .\u2014(1) On the completion of an",
+            "title": "The Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "Was there any committee or local committee involved and what was their conclusion, if yes then provide details?",
+            "ground_truth": "No, there was not any committee or local committee involved and they did not reach a conclusion regarding this specific allegation against the respondent.",
+            "context": "al Committee or the Local Committee, as the case may be, arrives at the \nconclusion that the allegation against the respondent has not been proved, it shall recommend to the \nemploy er and the  District Officer that  no action is required to be taken in the matter.",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "what are the consequences for an employee who sexually harasses a woman coworker?",
+            "ground_truth": "The consequences for an employee who sexually harasses a woman coworker can be severe and may include:",
+            "context": "manner as may be prescribed;  \n(ii) to deduct, notwithstanding anything in the service rules applicable to the respondent, from the \nsalary or wages of the respondent such sum as it may consider appropriate to be paid to the aggrieved \nwoman or to h er legal he irs, as it may determine, in accordance with the provisions of section 15:  \nProvide that in case the employer is unable to make such de",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In the context of sexual harassment of women in a workplace, is it necessary for an employer to deduct compensation from the salary paid to the aggrieved woman?",
+            "ground_truth": "No, an employer is not obligated to deduct compensation from the salary paid to a woman who has been sexually harassed in the workplace.",
+            "context": "of the respondent such sum as it may consider appropriate to be paid to the aggrieved \nwoman or to h er legal he irs, as it may determine, in accordance with the provisions of section 15:  \nProvide that in case the employer is unable to make such deduction from the salary of the \nrespondent due to his being absent from duty or cessation of employment it may direct to th e \nrespondent to pay such",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the provisions regarding a deduction from salary when an employer is unable to make such deduction due to the absence or cessation of employment of the employee?",
+            "ground_truth": "An employer may not deduct salary when an employee is absent from duty due to absence, cessation of employment, or any other reasons that prevent the deduction.",
+            "context": "nce with the provisions of section 15:  \nProvide that in case the employer is unable to make such deduction from the salary of the \nrespondent due to his being absent from duty or cessation of employment it may direct to th e \nrespondent to pay such sum to the aggrieved woman:  \nProvided further that in case the respondent fails to pay the sum referred to in clause (ii), the \nInternal Committee or",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "If a respondent fails to pay the sum directed in clause (ii), who can enforce payment?",
+            "ground_truth": "The aggrieved woman can enforce payment if a respondent fails to pay the sum directed in clause (ii) by forwarding the order for recovery of the sum as an arrear of land revenue to the concerned District Office.",
+            "context": "his being absent from duty or cessation of employment it may direct to th e \nrespondent to pay such sum to the aggrieved woman:  \nProvided further that in case the respondent fails to pay the sum referred to in clause (ii), the \nInternal Committee or as, the case may be, the Local Committee may forward the order for recovery \nof the sum as an arrear of land revenue to the concerned District Office",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In case the employee fails to pay a sum referred in clause (ii), who is responsible for forwarding the order for recovery of that sum as an arrear of land revenue?",
+            "ground_truth": "The Internal Committee or, as the case may be, the Local Committee can forward an order to recover the unpaid sum from the employee as a land revenue arrear to the concerned District Officer. The employer and/or the District Officer should act upon this recommendation within sixty days of its receipt.",
+            "context": "t in case the respondent fails to pay the sum referred to in clause (ii), the \nInternal Committee or as, the case may be, the Local Committee may forward the order for recovery \nof the sum as an arrear of land revenue to the concerned District Officer.  \n(4) The employer or the District Officer shall act upon the recommendation wit hin sixty days of its \nreceipt by him.  \n14. Punishment for false",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can you assist me in recovering arrears of land revenue to a concerned District Officer as an order for recovery?",
+            "ground_truth": "Yes",
+            "context": "ard the order for recovery \nof the sum as an arrear of land revenue to the concerned District Officer.  \n(4) The employer or the District Officer shall act upon the recommendation wit hin sixty days of its \nreceipt by him.  \n14. Punishment for false or malicious complaint and false evidence. \u2014(1) Where the Internal \nCommittee or the Local Committee, as the case may be, arrives at a conclusion that",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Whether a person who has produced any forged or misleading document may recommend action against the woman making the complaint under sub-section (1) or sub-section (2) of section 9, as applicable, in accordance with the provisions of the service rules applicable to her?",
+            "ground_truth": "The person making the complaint, who has produced any forged or misleading document, may recommend action against the woman making the complaint under sub-section (1) or sub-section (2) of section 9, as applicable. This recommendation should be made in accordance with the provisions of the service rules applicable to her.",
+            "context": "r person making the complaint \nhas produced any forged or misleading document, it may recommend to the employer or the District \nOfficer, as the case may be, to take action against the woman or the person who has mad e the complaint \nunder sub -section (1) or sub -section (2) of section 9, as the case may be, in accordance with the \nprovisions of the service rules applicable to her or him or where",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which section and sub-section of the Indian Penal Code can be invoked in order to take action against a woman who has made a sexual harassment complaint under this context?",
+            "ground_truth": "The specific sections and subsections of the Indian Penal Code (IPC) that can be invoked to take action against a woman who has made a sexual harassment complaint, considering the context provided, are sub-section 1 of Section 9 and/or sub-section 2 of Section 375.",
+            "context": "may be, to take action against the woman or the person who has mad e the complaint \nunder sub -section (1) or sub -section (2) of section 9, as the case may be, in accordance with the \nprovisions of the service rules applicable to her or him or where no such service rules exist, in such \nmanner as may be prescribed:  \nProvided that a mere inability  to substantiate a complaint or provide adequate",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the legal process to be followed in case a complainant suspects malicious intent on part of an individual during sexual harassment proceedings against them?",
+            "ground_truth": "The legal process to be followed in case a complainant suspects malicious intent on part of an individual during sexual harassment proceedings against them is as follows:\n1. The Internal Committee or the Local Committee, whichever applies,\n  should conduct an inquiry into whether there was malicious intent.\n2. During the inquiry, it must consider any witness who has given false evidence or produced any false\n     documents.",
+            "context": "nant under this section:  \nProvided further that the malicious intent on part of the complainant shall be established after an \ninquiry in a ccordance with the procedure prescribed, before any action is recommended.  \n(2) Where the Internal Committee or the Local Committee, as the case may be, arrives at a conclusion \nthat during the inquiry any witness has given false evidence or produced any for",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific service rules applicable to a witness in a sexual harassment case against an employer?",
+            "ground_truth": "The specific service rules applicable to a witness in a sexual harassment case against an employer would depend on the jurisdiction and laws governing such cases. However, some general guidelines may include:\n1. The witness must provide evidence of any sexual harassment incident or abuse that they have witnessed.\n2. The witness should cooperate with law enforcement agencies investigating the complaint.\n3. The service rules might also require the employer to take action in accordance with the provisions mentioned earlier, such as disciplinary measures against those found responsible for the harassment.",
+            "context": "the employer of the witness or the District Officer, as the case may be, to \ntake action in accordance with the provisions of the service rules applicable to the said witness or where \nno such service rules exi st, in su ch manner as may be prescribed.  \n15. Determination of compensation. \u2014For the purpose of determining  the sums to be paid to the \naggrieved woman under clause (ii) of sub -section",
+            "title": "Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "How can a victim of sexual harassment in the workplace seek legal advice or representation?",
+            "ground_truth": "A victim of sexual harassment in the workplace can seek legal advice or representation by consulting with a lawyer who specializes in employment law, women's rights, or labor law.",
+            "context": "11 \n 16. Prohibition of publication or making known contents of  complaint and inquiry \nproceedings. \u2014Notwithstan ding anything contained in the Right to Information Act, 2005  (22 of 2005) , \nthe contents of the  complaint made under section 9, the identity and addresses of the aggrieved woman, \nrespondent and witnesses, any information relating to conciliation and inquiry proceedings,  \nrecommen",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the legal procedures to be followed while disclosing information regarding justice secured to any victim of sexual harassment under this Act without disclosing the name, address, identity or other particulars?",
+            "ground_truth": "The legal procedures to be followed while disclosing information regarding justice secured to any victim of sexual harassment under the Act without disclosing their name, address, identity or other particulars include:\r\n1. The disclosure must not lead to the identification of the aggrieved woman and witnesses.\r\n2. The information disclosed should not have a tendency to expose them as victims of sexual harassment.",
+            "context": "ommunicated or made known to the public, press and media in any manner:  \nProvided that information may be disseminated regarding the justice secured to any vicitim of sexual \nharassment under this Act without disclosing the name, address, id entity  or any other particulars  \ncalculated to lead to the identification of the aggrieved woman and witnesses.  \n17. Penalty for publication or making kno",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the penalty for publishing contents of a sexual harassment complaint and inquiry proceedings?",
+            "ground_truth": "The penalty for publishing the contents of a sexual harassment complaint and inquiry proceedings is outlined in Section 17 of the Prevention of Sexual Harassment Act, which states:\n\n\"Where any person entrusted with the duty to handle or deal with the complaint, inquiry or any such proceedings published or made known the same without disclosing the name, address, identity number (if any) or any other particulars calculated to lead to the identification of the aggrieved woman and witnesses, he shall be punishable with imprisonment for a term which may extend up to six months or with fine or with both.\",\n",
+            "context": "to any vicitim of sexual \nharassment under this Act without disclosing the name, address, id entity  or any other particulars  \ncalculated to lead to the identification of the aggrieved woman and witnesses.  \n17. Penalty for publication or making known contents of complaint and inquiry proceedings .\u2014 \nWhere any person entrusted with the duty to handle or deal with the complaint, inquiry or any \nre",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the legal consequence if a person entrusted with handling or dealing with the complaint, inquiry or recommendations or action to be taken under provisions of the Act violates section 16?",
+            "ground_truth": "A person entrusted with handling or dealing with the complaint, inquiry, recommendations, or actions to be taken under the provisions of this Act who violates section 16 shall be liable for penalty.",
+            "context": "the identification of the aggrieved woman and witnesses.  \n17. Penalty for publication or making known contents of complaint and inquiry proceedings .\u2014 \nWhere any person entrusted with the duty to handle or deal with the complaint, inquiry or any \nrecommendations or action to be taken under the provisions of this Act, contravenes the provision s of \nsection 16, he shall be liable for penalty in ac",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal remedies are available to a victim of sexual harassment in the workplace who is an Indian citizen and seeks advice from a skilled laywer.",
+            "ground_truth": "The legal remedies available to a victim of sexual harassment in the workplace who is an Indian citizen and seeks advice from a skilled lawyer are as follows:\n1. Criminal Complaint: The victim can file a complaint with the nearest police station or any other authority empowered by law to take cognizance of such offences.\n2. Civil Proceedings: A civil suit for compensation may be filed in a competent court.",
+            "context": "\u2014 \nWhere any person entrusted with the duty to handle or deal with the complaint, inquiry or any \nrecommendations or action to be taken under the provisions of this Act, contravenes the provision s of \nsection 16, he shall be liable for penalty in accordance with the provisions of the service rules applicable \nto the said person or where no such service rules exist, in such manner as may be prescr",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In the context of the Act, if an employer is found to have committed sexual harassment against his employee in a manner prescribed by law or no service rules exist, what are the potential penalties he may face?",
+            "ground_truth": "In the context of this Act, if an employer is found to have committed sexual harassment against his employee in a manner prescribed by law or no service rules exist, potential penalties he may face include but are not limited to: (a) fine ranging from INR 50,000/- to INR 1 lakh/-; and (b) imprisonment up to three years.",
+            "context": "isions of this Act, contravenes the provision s of \nsection 16, he shall be liable for penalty in accordance with the provisions of the service rules applicable \nto the said person or where no such service rules exist, in such manner as may be prescribed.  \n18. Appeal. \u2014(1) Any person aggrieved from the rec ommendations made under sub -section (2) of \nsection 13 or under clause (i) or clause (ii)",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal steps can be taken by an individual who feels sexually harassed in the workplace, especially when the company's investigation process is lengthy or ineffective?",
+            "ground_truth": "An individual who feels sexually harassed in the workplace, especially when the company's investigation process is lengthy or ineffective can consider the following steps:\n1. **Report to HR**: The first step should be reporting the incident directly to your employer's Human Resources (HR) department.",
+            "context": "applicable \nto the said person or where no such service rules exist, in such manner as may be prescribed.  \n18. Appeal. \u2014(1) Any person aggrieved from the rec ommendations made under sub -section (2) of \nsection 13 or under clause (i) or clause (ii) of sub -section (3) of section 13 or sub -section (1) or sub -\nsection (2) of section 14 or section 17 or non -implementation of such recommendations",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can an Indian citizen facing a legal query related to sexual harassment in the workplace seek advice from a skilled laywer?",
+            "ground_truth": "Yes, an Indian citizen facing a legal query related to sexual harassment in the workplace can seek advice from a skilled lawyer.",
+            "context": "the rec ommendations made under sub -section (2) of \nsection 13 or under clause (i) or clause (ii) of sub -section (3) of section 13 or sub -section (1) or sub -\nsection (2) of section 14 or section 17 or non -implementation of such recommendations may prefer an \nappeal t o the court or tribunal in accordance with the provisions of the service rules applicable to the said \nperson or where no such",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the rights and remedies available to an Indian citizen facing sexual harassment in the workplace, who cannot afford legal assistance?",
+            "ground_truth": "An Indian citizen facing sexual harassment in the workplace who cannot afford legal assistance can seek remedies under section 14 or section 17 (if applicable) of the Protection of Women from Domestic Violence Act, 2005. If such recommendations are not implemented, they may prefer an appeal to a court or tribunal in accordance with the provisions of the service rules applicable to them.",
+            "context": "(1) or sub -\nsection (2) of section 14 or section 17 or non -implementation of such recommendations may prefer an \nappeal t o the court or tribunal in accordance with the provisions of the service rules applicable to the said \nperson or where no such service rules exist then, without prejudice to provisions contained in any other \nlaw for the time being in force, the person aggri eved may prefer a",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the duties of an employer regarding sexual harassment in the workplace?",
+            "ground_truth": "An employer has several duties regarding sexual harassment in the workplace. Firstly, they must ensure that their work environment is safe and free from any form of sexual harassment or discrimination.",
+            "context": "ovisions contained in any other \nlaw for the time being in force, the person aggri eved may prefer an appeal in such manner as may be \nprescribed.  \n(2) The appeal under sub -section (1) shall be preferred within a period of ninety days of the \nrecommendations.  \nCHAPTER VI  \nDUTIES OF EMPLOYER  \n19. Duties of employer. \u2014 Every  employer shall \u2014 \n(a) provide a safe working environment at the workp",
+            "title": "The Sexual Harassment of Women at Workplace."
+        },
+        {
+            "question": "What are the specific duties and responsibilities an employer is obligated to fulfill regarding a safe working environment for women in the workplace, as outlined in the provided title?",
+            "ground_truth": "An employer is obligated to ensure a safe working environment for women in their workplace by providing safety from persons coming into contact with them, displaying the title 'Sexual Harassment of Women at Workplace' conspicuously and ensuring compliance within 90 days.",
+            "context": "2) The appeal under sub -section (1) shall be preferred within a period of ninety days of the \nrecommendations.  \nCHAPTER VI  \nDUTIES OF EMPLOYER  \n19. Duties of employer. \u2014 Every  employer shall \u2014 \n(a) provide a safe working environment at the workplace with shall include safety from the \npersons coming into contact at the workplace;  \n(b) display at any conspicuous place in the workplace, the pe",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific duties and responsibilities an employer has towards ensuring a safe working environment for their employees, particularly when it comes to preventing sexual harassment?",
+            "ground_truth": "An employer has several specific duties and responsibilities towards ensuring a safe working environment for their employees, especially when it comes to preventing sexual harassment.\n(a) Employers must provide a safe workplace free from any persons who may come into contact with the employees. This includes creating physical barriers if necessary.\n(b) Employers are expected to display prominent signs in the workplace that clearly outline the penal consequences of sexual harassment and the establishment of an internal committee under section 4. They should also communicate this information to all employees.\n(c) Employers must organize regular training programs on preventing sexual harassment for their employees.",
+            "context": ". Duties of employer. \u2014 Every  employer shall \u2014 \n(a) provide a safe working environment at the workplace with shall include safety from the \npersons coming into contact at the workplace;  \n(b) display at any conspicuous place in the workplace, the penal consequences of sexual \nharassments; and the order constit uting, the Internal Committee under sub -section (1) of section 4;  \n(c) organise works",
+            "title": "Duties of employer.pdf"
+        },
+        {
+            "question": "What are the specific steps or measures to be taken by an employer in order to comply with the provisions of the Prevention and Control of Sexual Offences Act, 2013 (Act) when a female employee is sexually harassed at her workplace?",
+            "ground_truth": "To comply with the Prevention and Control of Sexual Offences Act, 2013 (Act) when a female employee is sexually harassed at her workplace, an employer should follow these specific steps:\n\n(a)\tComing into contact or displaying at any conspicuous place in the workplace the penal consequences of sexual harassment. An employer can do this by using posters with legal information about the Act and its penalties for sexual harassment.\n\n(b) Organizing workshops and awareness programmes regularly to sensitize employees with the provisions of the Act and orientation programmes for the employees on how to identify, report and handle cases of sexual harassment effectively.\n\n(c)\tEstablishing an Internal Committee as per sub-section (1) of Section 4 which can investigate complaints related to sexual harassment. This committee should have adequate training in handling such matters.",
+            "context": "oming into contact at the workplace;  \n(b) display at any conspicuous place in the workplace, the penal consequences of sexual \nharassments; and the order constit uting, the Internal Committee under sub -section (1) of section 4;  \n(c) organise workshops  and awareness prog rammes at regular intervals for sensiti sing the \nemployees with the provisions of the Act and orientation programmes for the",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the obligations and responsibilities of an employee facing a sexual harassment complaint?",
+            "ground_truth": "The obligations and responsibilities of an employee facing a sexual harassment complaint include:",
+            "context": "rder constit uting, the Internal Committee under sub -section (1) of section 4;  \n(c) organise workshops  and awareness prog rammes at regular intervals for sensiti sing the \nemployees with the provisions of the Act and orientation programmes for the members of the Internal \nCommittee in the manner as may be prescribed;  \n(d) provide necessary facilities to the Internal Committee or the Local Comm",
+            "title": "Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "What should a person do if they are facing legal issues related to sexual harassment in the workplace and require advice from a skilled lawyer?",
+            "ground_truth": "If you are facing legal issues related to sexual harassment in the workplace, consult a skilled lawyer who has experience and expertise in handling such cases.",
+            "context": "omplaint and conducting an inquiry;  \n(e) assist in securing the attendance of respondent and witnesses before the Internal Committee or \nthe Local Committee, as the case may be;  \n(f) make available such information to the Internal Committee or the Local Committee, as the \ncase be, as it may require having regard to the complaint made under sub -section (1) of section 9;  \n(g) provide assistance",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal advice can be provided to a woman who is facing sexual harassment in her workplace and wants help filing a complaint?",
+            "ground_truth": "To help a woman facing sexual harassment in her workplace, legal advice can be provided on how to file a complaint and seek justice. Here are some steps:",
+            "context": "e having regard to the complaint made under sub -section (1) of section 9;  \n(g) provide assistance to the woman if she so chooses to file a com plaint in relation to the offence \nunder the Indian Penal Code (45 of 1860) or any other law for the time being in force;  \n(h) cause to initiate action, under the Indian Penal Code (45 of 1860) or any other law for the time \nbeing in force, against the p",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "If a woman wants to seek legal advice regarding sexual harassment at her workplace, what are the laws she should consider?",
+            "ground_truth": "The woman should consider laws such as the Protection of Women from Domestic Violence Act, 2005 (PWDA), which provides a comprehensive framework for addressing sexual harassment in the workplace. The PWDA defines sexual harassment as any unwanted or uninvited sexual advances, requests for sexual favors, and other verbal or physical intimidation that affects an individual's personal dignity and respect.",
+            "context": "t in relation to the offence \nunder the Indian Penal Code (45 of 1860) or any other law for the time being in force;  \n(h) cause to initiate action, under the Indian Penal Code (45 of 1860) or any other law for the time \nbeing in force, against the perpet rator, or if the aggrieved woman so desires, where the perpetrator is \nnot an employee, in the workplace at which the incident of sex ual harass",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which section of the Indian Penal Code (45 of 1860) or any other law for the time being in force, prohibits sexual harassment against a woman who is an employee at her workplace where the perpetrator is not an employee?",
+            "ground_truth": "The Indian Penal Code (45 of 1860) or any other law for the time being in force, prohibits sexual harassment against a woman who is an employee at her workplace where the perpetrator is not an employee.",
+            "context": "nder the Indian Penal Code (45 of 1860) or any other law for the time \nbeing in force, against the perpet rator, or if the aggrieved woman so desires, where the perpetrator is \nnot an employee, in the workplace at which the incident of sex ual harassment took place;",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the duties and powers of a District Officer in relation to sexual harassment complaints made against women employees?",
+            "ground_truth": "The duties and powers of a District Officer in relation to sexual harassment complaints made against women employees, as mentioned in the context 12 of the provided document, include:",
+            "context": "12 \n (i) treat sexual harassment as a misconduct under the service rules and initiate action for such \nmisconduct;  \n(j) monitor the timely submission of reports by the Internal Committee.  \nCHAPTER VII  \nDUTIES AND POWERS OF DISTRICT OFFICER  \n20. Duties and powers of District Officer. \u2014The District Officer shall , \u2014 \n(a) monitor the timely submission of report furnished by the Local Committee;",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What measures does a District Officer need to take in order to engage non-governmental organizations for creating awareness on sexual harassment and the rights of women?",
+            "ground_truth": "The District Officer needs to take several measures in order to engage non-governmental organizations (NGOs) for creating awareness on sexual harassment and the rights of women. Here are some steps he can follow:",
+            "context": "n of reports by the Internal Committee.  \nCHAPTER VII  \nDUTIES AND POWERS OF DISTRICT OFFICER  \n20. Duties and powers of District Officer. \u2014The District Officer shall , \u2014 \n(a) monitor the timely submission of report furnished by the Local Committee;  \n(b) take such measures as may be necessary for engaging non -governmental organisations for \ncreation of awareness on sexual harassment and the righ",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What measures does a CT Officer have to take in order to ensure timely submission of reports by the Local Committee and engage non-governmental organizations for creating awareness on sexual harassment and women's rights?",
+            "ground_truth": "The CT Officer should monitor the timely submission of reports by the Local Committee and take necessary measures to engage non-governmental organizations for creating awareness on sexual harassment and women's rights.",
+            "context": "ct Officer shall , \u2014 \n(a) monitor the timely submission of report furnished by the Local Committee;  \n(b) take such measures as may be necessary for engaging non -governmental organisations for \ncreation of awareness on sexual harassment and the rights of the women.  \nCHAPTER VIII  \nMISCE LLANEOUS  \n21. Committee to submit annual report .\u2014 (1) The Internal Committee or the Local Committee, as \nthe",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Which non-governmental organization should a committee focus on addressing sexual harassment faced by Indian women in their workplace?",
+            "ground_truth": "The committee should focus on non-governmental organizations that specialize in women's rights, gender equality, or sexual harassment awareness and prevention. Some suggestions include:",
+            "context": "ngaging non -governmental organisations for \ncreation of awareness on sexual harassment and the rights of the women.  \nCHAPTER VIII  \nMISCE LLANEOUS  \n21. Committee to submit annual report .\u2014 (1) The Internal Committee or the Local Committee, as \nthe case may be, shall in each calendar year prepare, in such form and at such time as may be prescribed, \nan annual report and submit the same to the em",
+            "title": "The Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "How many cases have been filed and disposed in respect to all sexual harassment cases at the workplace?",
+            "ground_truth": "The number of cases filed and disposed in respect to all sexual harassment cases at the workplace is not provided.",
+            "context": "maintain date on the number of cases filed \nand disposed of in respect of all cases of sexual harassment at workplace.  \n24. Appropriate Government to take measures to publicise the Act .\u2014The appropriate \nGovernment may, subject to the availability of financial and other resources, \u2014 \n(a) develop relevant information, education, communication and training materials, and organise \nawareness progra",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What measures can be taken by the Local Committee for the protection of women employees from sexual harassment in the workplace?",
+            "ground_truth": "The Local Committee can take several measures for the protection of women employees from sexual harassment in the workplace.\n1. Call upon any employer to furnish written information about their policies, procedures and guidelines related to prevention, detection, reporting and redressal of sexual harassment complaints made by female employees.\n2. Power to inspect records relating to the employment status, promotion, compensation, discipline or dismissal of women employees.\n3. Establish a grievance redressal mechanism for women employees where they can seek redressal from any act of sexual harassment.",
+            "context": "rammes for the members of the 1[Local Committee ]. \n25. Power to call for information and inspection of records. \u2014(1) The appropriate Government, on \nbeing satisfied that it is necessary in the public interest or  in the interest of women employees at a \nworkplace to do so, by order in writing, \u2014 \n(a) call upon any employer or District Officer to furnish in writing such information relating to \nse",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "what information relating to sexual harassment an employer is required to provide in writing",
+            "ground_truth": "Employers are required to provide written evidence of measures taken against sexual harassment in their workplace.",
+            "context": "a) call upon any employer or District Officer to furnish in writing such information relating to \nsexual harassment as it may  require;  \n(b) authorise any officer to make inspection of the records and workplace in relation to sexual \nharassment, who shall submit  a report of such inspection to it within such period as may be specified \nin the order.  \n(2) Every employer and District Officer shall",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Who has to make an inspection of the records and workplace related to sexual harassment, who is supposed to submit a report of such inspection within what period?",
+            "ground_truth": "Any officer making an inspection of the records and workplace related to sexual harassment is required to submit a report of such inspection within the period specified in the order.",
+            "context": "e any officer to make inspection of the records and workplace in relation to sexual \nharassment, who shall submit  a report of such inspection to it within such period as may be specified \nin the order.  \n(2) Every employer and District Officer shall produce on demand before the officer making the \ninspection all information, records and other documents in his custody hav ing a bearing on the subj",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific documents do employers need to provide during a sexual harassment inspection?",
+            "ground_truth": "Employers need to provide specific documents during a sexual harassment inspection, as mentioned in Section 26 of the Act.",
+            "context": "ithin such period as may be specified \nin the order.  \n(2) Every employer and District Officer shall produce on demand before the officer making the \ninspection all information, records and other documents in his custody hav ing a bearing on the subject \nmatter of such inspection.  \n26. Penalty for non -compliance with provisions of Act .\u2014(1) Where the employer fails to \u2014 \n(a) constitute an Intern",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "For a context of inspection all information, records, and other documents in his custody having a bearing on the subject matter of such inspection, what is the penalty for non-compliance with the provisions of Act?",
+            "ground_truth": "The penalty for non-compliance with the provisions of Act is specified under Section 26(1) of the Act, which states that 'Where an employer fails to constitute an Internal Committee as required by sub-section (1) of section 4, he shall be liable to a fine not exceeding Rs. 50 lakh.",
+            "context": "inspection all information, records and other documents in his custody hav ing a bearing on the subject \nmatter of such inspection.  \n26. Penalty for non -compliance with provisions of Act .\u2014(1) Where the employer fails to \u2014 \n(a) constitute an Internal Committee under sub -section (1) of section 4;  \n                                                           \n1. Subs. by Act 23 of 2016, s. 3 and t",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In the context provided, what are the provisions that an employer is required to comply with in order to prevent sexual harassment of women?",
+            "ground_truth": "The employer is required to comply with the provisions in order to prevent sexual harassment of women, as per the Act which states that an Internal Committee should be constituted under Section 4(1) and a Local Complaints Committee (LCC) established by Section 4(2), both for preventing sexual harassment at workplace. The Act also provides provisions regarding non-compliance.",
+            "context": "non -compliance with provisions of Act .\u2014(1) Where the employer fails to \u2014 \n(a) constitute an Internal Committee under sub -section (1) of section 4;  \n                                                           \n1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for \u201cLocal Complaints Committee\u201d (w.e.f. 6 -5-2016).",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the specific provisions in the law that penalize employers for sexual harassment committed against women employees?",
+            "ground_truth": "Employers are penalized for sexual harassment committed against women employees through the specific provisions in Section 13, which states that employers who commit or abet such acts may be fined up to Rs. 50,000.",
+            "context": "13 \n (b) take action  under sections 13, 14 and 22; and  \n(c) contravenes or attempts to contravene or abets contravention of other provisions of this Act or \nany rules made thereunder,  \nhe shall be punishable with fine which may extend to fifty thousand rupees.  \n(2) If any employer, after having been previously convicted of an offence punishable under this Act \nsubsequently commits and is convi",
+            "title": "The Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "What are the steps a victim can follow if they have been sexually harassed in the workplace?",
+            "ground_truth": "The victim can follow the following steps if they have been sexually harassed in the workplace:\n1. **Seek Legal Advice**: Immediately seek legal advice from a trusted professional to understand their rights and options.\n2. **Report to the Employer or HR Department**: Report this incident to your employer, Human Resources department (if applicable) or to an Equal Opportunity Officer if you work for a private company.",
+            "context": "being prosecuted, the court shall take due cognizance \nof the same while awarding the punishment;  \n(ii) cancellation, of his licence or withdrawal, or non -renewal, or approval, or cancellation of the \nregistration, as the case may be, by the Government or local authority required for carrying on his \nbusiness or activity.  \n27. Cognizance of offence by courts. \u2014(1) No court shall take cognizance",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Is it necessary to renew/approve/cancel the registration for carrying on business, activity as required by Government or local authority?",
+            "ground_truth": "No, it is not necessary to renew/approve/cancel the registration for carrying on business or activity as required by Government or local authority.",
+            "context": "r non -renewal, or approval, or cancellation of the \nregistration, as the case may be, by the Government or local authority required for carrying on his \nbusiness or activity.  \n27. Cognizance of offence by courts. \u2014(1) No court shall take cognizance of any offence punishable \nunder this Act or any rules made thereunder, save on a complaint made by the aggrieved woman or any \nperson authorised by",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Can an aggrieved woman file a complaint against sexual harassment in the workplace?",
+            "ground_truth": "Yes, an aggrieved woman can file a complaint against sexual harassment in the workplace.",
+            "context": "is \nbusiness or activity.  \n27. Cognizance of offence by courts. \u2014(1) No court shall take cognizance of any offence punishable \nunder this Act or any rules made thereunder, save on a complaint made by the aggrieved woman or any \nperson authorised by the Internal Committee or Local Committee in this behalf.  \n (2) No court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of th",
+            "title": "The Sexual Harassment of Women at Workplace"
+        },
+        {
+            "question": "In the context of the title 'The Sexual Harassment of Women at Workplace.pdf', what is a non-cognizable offense according to Section 28 of this Act?",
+            "ground_truth": "Non-cognizable offense according to Section 28 refers to the absence of criminal liability for sexual harassment offenses in the workplace, regardless of whether a complaint has been filed by an aggrieved woman or any other person authorized by the Internal Committee or Local Committee.",
+            "context": "rules made thereunder, save on a complaint made by the aggrieved woman or any \nperson authorised by the Internal Committee or Local Committee in this behalf.  \n (2) No court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class \nshall try any offence punish able under this Act.  \n(3) Every offence under this Act shall be non -cognizable.  \n28. Act not in derogat",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "In which Act is the definition of sexual harassment given? The Sexual Harassment of Women at Workplace.",
+            "ground_truth": "The definition of sexual harassment is given under section 28 of the Act.",
+            "context": "nder this Act.  \n(3) Every offence under this Act shall be non -cognizable.  \n28. Act not in derogation of any other law .\u2014The prov isions of this Act shall be in addition to and \nnot in derogation of the provisions of any other law for the time being in for ce. \n29. Power of appropriate Government to make rules. \u2014(1) The Central Government  may, by \nnotification in the Official  Gazette, make rul",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the rules governing sexual harassment in a workplace according to the provisions of this Act?",
+            "ground_truth": "The provisions of this Act do not contradict or override any other existing law related to sexual harassment in the workplace.",
+            "context": "shall be in addition to and \nnot in derogation of the provisions of any other law for the time being in for ce. \n29. Power of appropriate Government to make rules. \u2014(1) The Central Government  may, by \nnotification in the Official  Gazette, make rules for carrying out the provisions of this Act.  \n(2) In particular and without prejudice to the generality of the foregoing power, such rules may \npr",
+            "title": "Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the rules provided in the context for handling sexual harassment complaints made by female employees at workplace?",
+            "ground_truth": "The rules provided in context for handling sexual harassment complaints made by female employees at workplace are as follows:",
+            "context": "to make rules. \u2014(1) The Central Government  may, by \nnotification in the Official  Gazette, make rules for carrying out the provisions of this Act.  \n(2) In particular and without prejudice to the generality of the foregoing power, such rules may \nprovide for all or any of the following matters, namely: \u2014 \n(a) the fees or allowances to be paid to the Members under sub -section (4) of section 4;",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "what are the fees or allowances to be paid to the Chairperson, and Members under sub -section (4) of section 7;",
+            "ground_truth": "The fees or allowances for the Chairperson and Members under sub-section (4) of section 7 are not specified in the given context. However, it is important to check the relevant law and rules regarding fees or allowances for officers of such bodies.",
+            "context": "-section (1) of section 7;  \n(c) the fees or allowances to be paid to the Chairperson, and Members under sub -section (4) of \nsection 7;  \n(d) the person who may make complaint under sub -section (2) of section 9;  \n(e) the manner of inquiry under sub -section (1) of section 11;  \n(f) the powers for making an inquiry under clause (c) of sub -section  (2) of section 11;  \n(g) the relief to be recom",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "Is it true that the expiry of a session immediately following the session or successive sessions in question would have any impact on the validity of rules related to sexual harassment prevention?",
+            "ground_truth": "No",
+            "context": "re the expiry of the \nsession immediately following the session or the successive ses sions aforesaid, both Houses agree in \nmaking any modification in the rule or both Houses agree that the rule should not be made, the rule shall \nthereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that \nany such modification or annulment shall be without prejudi",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "How can a citizen facing legal issues related to sexual harassment in the workplace seek appropriate advice and assistance?",
+            "ground_truth": "To seek appropriate advice and assistance, a citizen facing legal issues related to sexual harassment in the workplace can follow these steps:",
+            "context": "n the rule or both Houses agree that the rule should not be made, the rule shall \nthereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that \nany such modification or annulment shall be without prejudice to the validity of anything previously done \nunder that rule.  \n(4) Any rule made under sub -section (4) of section 8 by the State Government shall",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What legal rights and remedies are available to an Indian citizen facing sexual harassment in the workplace?",
+            "ground_truth": "As an Indian citizen facing sexual harassment in the workplace, you are entitled to various legal rights and remedies under the law.",
+            "context": ", as the case may be; so, however, that \nany such modification or annulment shall be without prejudice to the validity of anything previously done \nunder that rule.  \n(4) Any rule made under sub -section (4) of section 8 by the State Government shall be laid, as soon as \nmay be after it is made, before each House of the State Legislature where it consists of two Houses, or \nwhere such Legislature",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What is the process for making a rule under sub-section (4) of section 8, in case there are two Houses or one House of the State Legislature?",
+            "ground_truth": "In case there are two Houses or one House of the State Legislature, a rule made under sub-section (4) of section 8 by the State Government must be laid before each House of the State Legislature where it consists of two Houses. If the Legislature consists of only one House, the rule should be laid before that House.",
+            "context": "der that rule.  \n(4) Any rule made under sub -section (4) of section 8 by the State Government shall be laid, as soon as \nmay be after it is made, before each House of the State Legislature where it consists of two Houses, or \nwhere such Legislature consists of one House, before that House.  \n30. Power to remove dif ficulties.\u2014 (1) If any difficulty arises in giving effect to the provisions of \nth",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are some measures or provisions a central government may make in an order published in the Official Gazette to remove any difficulty arising from giving effect to the provisions of The Sexual Harassment of Women at Workplace Act, which would not be inconsistent with the provisions of this act?",
+            "ground_truth": "The central government can remove difficulties arising from giving effect to the provisions of The Sexual Harassment of Women at Workplace Act in an order published in the Official Gazette by making provisions that are not inconsistent with this act and necessary for removing those difficulties. However, no such order should be made after the expiry of this section.",
+            "context": "wer to remove dif ficulties.\u2014 (1) If any difficulty arises in giving effect to the provisions of \nthis Act, the Central Government may, by order published in the Official Gazette, make such provisions, \nnot inconsistent with the provisions of this Act, as may appear to it to be necessary for removing the \ndifficulty:  \nProvided that no such order shall be made under this section after the expiry o",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What specific measures can the government take to prevent sexual harassment in workplaces according to this Act?",
+            "ground_truth": "The government can take specific measures to prevent sexual harassment in workplaces according to this Act by incorporating provisions into the Official Gazette that are not inconsistent with its provisions and appear necessary for removing the difficulties. However, no such order shall be made under this section after two years from the commencement of this Act.",
+            "context": "shed in the Official Gazette, make such provisions, \nnot inconsistent with the provisions of this Act, as may appear to it to be necessary for removing the \ndifficulty:  \nProvided that no such order shall be made under this section after the expiry of a period of two years \nfrom the commencement of this Act.  \n(2) Every order made under this section shall be laid, as soon as may be after it is mad",
+            "title": "The Sexual Harassment of Women at Workplace.pdf"
+        },
+        {
+            "question": "What are the steps to follow when seeking legal advice regarding a sexual harassment case in the workplace?",
+            "ground_truth": "When seeking legal advice regarding a sexual harassment case in the workplace, follow these steps:",
+            "context": "g the \ndifficulty:  \nProvided that no such order shall be made under this section after the expiry of a period of two years \nfrom the commencement of this Act.  \n(2) Every order made under this section shall be laid, as soon as may be after it is made, before each \nHouse of Parliament.",
+            "title": "Sexual Harassment of Women at Workplace"
+        }
+    ]
+}
